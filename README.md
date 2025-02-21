@@ -24,3 +24,6 @@ To create the environment, run:
 conda env create -f environment.yml
 conda activate ia_tutorial
 ```
+
+# Authors
+[nl](https://github.com/NataliaLyubaykina)

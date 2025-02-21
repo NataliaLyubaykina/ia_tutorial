@@ -10,11 +10,11 @@ dependencies:
   - ipywidgets
   - scipy
   - scikit-image
-  - napari
   - tifffile
   - jupyterlab
   - openpyxl
+  - pyqt  # Required for napari GUI
   - pip
   - pip:
-      - apoc
+      - "napari[all]"  # Ensures full installation of napari
       - pyclesperanto_prototype
