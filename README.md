@@ -3,7 +3,7 @@
 Basic tutorial for image analysis from 
 [Biological Algorithms: Spatio-Temporal Dynamics of Cells and Tissues.](https://physics-of-life.tu-dresden.de/team/pol-groups/friedrich)
 
-## Overview
+# Overview
 - standard Python environment for image analysis
 - basic examples of using napari for 3d fluorescent images
 
