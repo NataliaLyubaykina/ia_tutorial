@@ -1,0 +1,20 @@
+name: ia_tutorial
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - ipywidgets
+  - scipy
+  - scikit-image
+  - napari
+  - tifffile
+  - jupyterlab
+  - openpyxl
+  - pip
+  - pip:
+      - apoc
+      - pyclesperanto_prototype
